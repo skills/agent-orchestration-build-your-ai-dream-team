@@ -154,7 +154,7 @@ jobs:
         uses: skills/action-keyphrase-checker@v2
         with:
           text-file: docs/agent-team.md
-          keyphrase: Gemini 3.1 Pro
+          keyphrase: Gemini 3.7 Flash
           case-sensitive: false
 
       - name: Check learner references agent definitions

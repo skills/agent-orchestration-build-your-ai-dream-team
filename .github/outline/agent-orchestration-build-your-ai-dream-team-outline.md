@@ -24,7 +24,7 @@ By the end of this exercise, learners will be able to:
    - Orchestrator: Opus 4.8
    - Planner: Opus 4.8
    - Coder: GPT-5.5
-   - Designer: Gemini 3.1 Pro
+   - Designer: Gemini 3.7 Flash
 1. Use GitHub Copilot CLI in a Codespace terminal as the primary interface.
 1. Ask the Orchestrator to involve the Planner before implementation.
 1. Separate design work from coding work.
@@ -97,7 +97,7 @@ GitHub Copilot CLI can use custom agents stored in `.github/agents/`. In this ex
 
 - `docs/agent-team.md` exists.
 - The file includes `Orchestrator`, `Planner`, `Coder`, and `Designer`.
-- The file includes `Opus 4.8`, `GPT-5.5`, and `Gemini 3.1 Pro`.
+- The file includes `Opus 4.8`, `GPT-5.5`, and `Gemini 3.7 Flash`.
 - The file references `.github/agents/` and Project Pulse.
 
 ## Step 2: Plan Project Pulse
