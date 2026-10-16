@@ -85,7 +85,7 @@ The custom agent definitions are already available in `.github/agents/`. Your fi
 - Make sure you updated `docs/agent-team.md`.
 - Make sure the file references `.github/agents/`.
 - Make sure the file includes all four agent names.
-- Make sure the file uses the updated models: Opus 4.8, GPT-5.5, and Gemini 3.7 Flash.
+- Make sure the file uses the updated models: Opus 5.5, GPT-5.5, and Gemini 3.7 Flash.
 - Make sure you pushed your commit.
 
 </details>

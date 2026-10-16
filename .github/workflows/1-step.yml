@@ -136,7 +136,7 @@ jobs:
         uses: skills/action-keyphrase-checker@v2
         with:
           text-file: docs/agent-team.md
-          keyphrase: Opus 4.8
+          keyphrase: Opus 5.5
           case-sensitive: false
 
       - name: Check for GPT-5.5 model

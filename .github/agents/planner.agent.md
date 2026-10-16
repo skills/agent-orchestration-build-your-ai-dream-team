@@ -1,7 +1,7 @@
 ---
 name: Planner
 description: Creates implementation plans by researching the codebase, documentation, dependencies, and edge cases.
-model: Claude Opus 4.8 (copilot)
+model: Claude Opus 5.5 (copilot)
 tools: ['read', 'search', 'web', 'memory', 'todo']
 ---
 
