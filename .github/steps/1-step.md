@@ -79,6 +79,10 @@ The custom agent definitions are already available in `.github/agents/`. Your fi
 
 1. Mona will check your work and post the next lesson.
 
+### For further reading
+
+- Explore [GitHub Copilot Fusion](https://docs.github.com/en/copilot/concepts/models/copilot-fusion) for model selection and orchestration.
+
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
