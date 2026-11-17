@@ -26,6 +26,10 @@ In this exercise, you will:
 1. Build the dashboard files, create a VS Code launch configuration, run the dashboard, and validate the result.
 1. Summarize the final coordinated handoff.
 
+## For further reading
+
+- Explore [GitHub Copilot Fusion](https://docs.github.com/en/copilot/concepts/models/copilot-fusion) for model selection and orchestration.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
